@@ -1,9 +1,21 @@
-## Olá eu sou o Guilherme Oliveira um desenvolvedor web apaixonado pela tecnologia buscando transformar sonhos em realidade através da programação.
+<h1 align="center">
+  Welcome to Guilheme Oliveira profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
+<h3 align="center">A developer passionate about technology.</h3>
+
+<h2>🔥 Streak Stats</h2>
 <div align="center">
   <a href="https://github.com/gui1hermeO1iveira">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui1hermeO1iveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui1hermeO1iveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=gui1hermeO1iveira&theme=dracula" alt="keikomori" />
+</p>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
