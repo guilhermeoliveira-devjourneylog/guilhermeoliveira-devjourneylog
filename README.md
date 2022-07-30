@@ -12,7 +12,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui1hermeO1iveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=gui1hermeO1iveira&theme=dracula" alt="keikomori" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=gui1hermeO1iveira&theme=dracula" alt="Guilherme" />
 </p>
 
 
