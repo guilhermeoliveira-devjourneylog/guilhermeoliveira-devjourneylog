@@ -8,7 +8,7 @@
 <h2 align="center">🔥 Streak Stats</h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=dev-guilherme-oliveira&theme=dracula" alt="Guilherme" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=GuilhermeOliveira-Developer&theme=dracula" alt="Guilherme" />
 </p>
 
 
