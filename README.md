@@ -17,6 +17,8 @@ Would you like to find me?
 
 [![guilhermeoliveira-devjourneylog GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeoliveira-devjourneylog&theme=dracula&show_icons=true&count_private=true)](https://github.com/guilhermeoliveira-devjourneylog/github-readme-stats)
 
+[![guilhermeoliveira-devjourneylog GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeoliveira-devjourneylog&show_icons=true&theme=transparent)
+
 
 <div style="display: inline_block" align="left"><br>
   <img align="left" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
