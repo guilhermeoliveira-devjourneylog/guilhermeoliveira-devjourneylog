@@ -15,7 +15,6 @@ Would you like to find me?
 
 <h2 align="left">🔥 Streak Stats</h2>
 
-![guilhermeoliveira-devjourneylog GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeoliveira-devjourneylog&show_icons=true&theme=dracula&count_private=true)
 
 <div style="display: inline_block" align="left"><br>
   <img align="left" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
